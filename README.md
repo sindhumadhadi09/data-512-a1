@@ -26,7 +26,7 @@ All the  data we retrieved using REST APIs are stored in json format with the be
 - pageviews_mobile-app_201507-202109.json     : Counts from the mobile-app version.
 - pageviews_mobile-web_201507-202109.json     : Counts from the mobile-web version.
 
-##### Data processing:
+## Data processing:
 The data files which we colledted need to be processed and store as 'en-wikipedia_traffic_200712-202108.csv' file
 Combine all data into a single CSV file with the following headers:
 
