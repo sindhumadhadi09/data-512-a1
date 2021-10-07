@@ -44,7 +44,7 @@ pageview_mobile_views | num_views |  Mobile  (Web + App) page views retrieved fr
 
 The raw data json files are stored in the `raw_data` folder, the final processed data is tored in 'Final_clean-data' folder
 
-## Code
+## Output:
 All the code involved in this project is written in a `Jupyter notebook` : `hcds-a1-data-curation.ipynb`.
 
 The notebook has three steps in the project:
@@ -60,7 +60,7 @@ The following packages are needed to run:
 - pandas
 - requests
 
-The final result is saved as a .png file which also has been published here as : `wiki_traffic_views_2008_2021.png`
+The final result is saved as a '.png' file which also has been published here as : `wiki_traffic_views_2008_2021.png`
 
 ## Known Issues
 - The values of pagecount_mobile_views for months before October 2014 should be 0, because mobile traffic data is not available before that month.
