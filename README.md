@@ -35,12 +35,12 @@ Column | Value | Description |
 | ------------- |:-------------:| -----|
 year | YYYY | Year corresponding to the data.(2008-2021)|
 month | MM | Month corresponding to the data.(2008-2021)|
-pagecount_all_views | num_views | Total page views retrieved from Pagecount API. |
-pagecount_desktop_views | num_views | Desktop version page views retrieved from Pagecount API. |
-pagecount_mobile_views | num_views | Mobile version page views retrieved from Pagecount API. |
-pageview_all_views | num_views | Total page views retrieved from Pageview API. |
-pageview_desktop_views | num_views |  Desktop version page views retrieved from Pageview API. |
-pageview_mobile_views | num_views |  Mobile version (Website + App) page views retrieved from Pageview API. |
+pagecount_all_views | num_views | Total views retrieved from Pagecount API. |
+pagecount_desktop_views | num_views | Desktop  views retrieved from Pagecount API. |
+pagecount_mobile_views | num_views | Mobile  page views retrieved from Pagecount API. |
+pageview_all_views | num_views | Total  views retrieved from Pageview API. |
+pageview_desktop_views | num_views |  Desktop  page views retrieved from Pageview API. |
+pageview_mobile_views | num_views |  Mobile  (Web + App) page views retrieved from Pageview API. |
 
 The raw data json files are stored in the `raw_data` folder, the final processed data is tored in 'Final_clean-data' folder
 
